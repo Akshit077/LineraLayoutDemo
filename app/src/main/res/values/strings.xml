@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewsDemo</string>
+    <string name="foodie_app">Foodie App</string>
+    <string name="username">Username</string>
+</resources>
